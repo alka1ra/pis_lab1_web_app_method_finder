@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pis1lab">
+    <output-path>$PROJECT_DIR$/../../JARs</output-path>
+    <root id="archive" name="pis1lab.war" />
+  </artifact>
+</component>

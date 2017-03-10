@@ -1,0 +1,4 @@
+datahandler\MethodGetter.class
+datahandler\JspMessagePreparator.class
+servlet\ProcessServlet.class
+datahandler\DataFormer.class
